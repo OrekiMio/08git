@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 version 3
-hello git1!
+=======
+hot-fix version 1
+>>>>>>> 
+hello git1! hot-fix
 hello git2!
 hello git3!
 hello git4!
