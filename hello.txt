@@ -1,4 +1,4 @@
-hot-fix version 1
+hot-fix version2
 hello git1!
 hello git2!
 hello git3!
