@@ -1,3 +1,4 @@
+version 2
 hello git1!
 hello git2!
 hello git3!
